@@ -1,22 +1,24 @@
-Name: MANGAL MAHARANA
-Company: CODTECH IT SOLUTIONS
-ID: CT6FWD1238
-Domain: Web Development
-Duration: July to August 2024
-Mentor: MUZAMMIL AHMED
+Name: MANGAL MAHARANA<br/>
+Company: CODTECH IT SOLUTIONS<br/>
+ID: CT6FWD1238<br/>
+Domain: Web Development<br/>
+Duration: July to August 2024<br/>
+Mentor: MUZAMMIL AHMED<br/>
 
-# Overview of the Project
-This is a simple interactive quiz application built using HTML, CSS, and JavaScript. The application presents multiple-choice questions to the user, allows navigation between questions, and displays the final score upon submission.
+# Overview: Food Finder - Recipe Finder App
+Welcome to the Food Finder app! This application allows users to search for recipes based on ingredients they have on hand. By utilizing the Edamam API, the app fetches and displays a list of recipes, complete with images, ingredients, and links to full recipes.
 
 ## Features
-Multiple-Choice Questions: The quiz contains a set of multiple-choice questions.
-Navigation: Users can navigate to any question using navigation buttons.
-Answer Selection: Users can select an answer for each question. The selected answer is saved and displayed when the question is revisited.
-Submit and Score: Users can submit the quiz once all questions are answered, and the application will display the final score.
+* Ingredient-based Search: Enter the ingredients you have, and the app will find recipes that use those ingredients.
+* Responsive Design: The app is designed to be user-friendly and works well on both desktop and mobile devices.
+* Recipe Display: Each search result includes an image, a list of ingredients, and a link to the full recipe.
+* Interactive UI: The app provides a seamless and interactive user experience.
 
 ## Technologies Used
-HTML: Structure of the quiz application.
-CSS: Styling of the quiz application, including a background image and responsive design.
-JavaScript: Quiz logic, including question navigation, answer selection, and score calculation.
+* HTML: Structure of the web page.
+* CSS: Styling the application.
+* JavaScript: Interactivity and API handling.
+* Edamam API: Fetching recipe data.
 
 ## Screenshots
+![Screenshot (366)](https://github.com/user-attachments/assets/975ac71b-fcde-4c8d-85f0-9c11f9297abc)
